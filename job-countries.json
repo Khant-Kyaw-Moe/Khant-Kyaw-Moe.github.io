@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "country_name_en": "Myanmar",
+        "country_name_mm": "MM",
+        "country_slug": "myanmar",
+        "created_at": "2021-06-11T08:13:15.000000Z",
+        "updated_at": "2021-06-11T08:13:15.000000Z"
+    },
+    {
+        "id": 2,
+        "country_name_en": "Japan",
+        "country_name_mm": "JP",
+        "country_slug": "japan",
+        "created_at": "2021-06-11T08:13:15.000000Z",
+        "updated_at": "2021-06-11T08:13:15.000000Z"
+    },
+    {
+        "id": 3,
+        "country_name_en": "Singapore",
+        "country_name_mm": "Singapore",
+        "country_slug": "singapore",
+        "created_at": "2021-06-11T08:13:15.000000Z",
+        "updated_at": "2021-06-11T08:13:15.000000Z"
+    },
+    {
+        "id": 4,
+        "country_name_en": "Thai",
+        "country_name_mm": "Thai",
+        "country_slug": "thai",
+        "created_at": "2021-06-11T08:13:15.000000Z",
+        "updated_at": "2021-06-11T08:13:15.000000Z"
+    },
+    {
+        "id": 5,
+        "country_name_en": "South Korea",
+        "country_name_mm": "South Korea",
+        "country_slug": "south-korea",
+        "created_at": "2021-06-11T08:13:15.000000Z",
+        "updated_at": "2021-06-11T08:13:15.000000Z"
+    },
+    {
+        "id": 6,
+        "country_name_en": "Malaysia",
+        "country_name_mm": "Malaysia",
+        "country_slug": "malaysia",
+        "created_at": "2021-06-11T08:13:15.000000Z",
+        "updated_at": "2021-06-11T08:13:15.000000Z"
+    },
+    {
+        "id": 7,
+        "country_name_en": "Indonesia",
+        "country_name_mm": "Indonesia",
+        "country_slug": "indonesia",
+        "created_at": "2021-06-11T08:13:15.000000Z",
+        "updated_at": "2021-06-11T08:13:15.000000Z"
+    }
+]

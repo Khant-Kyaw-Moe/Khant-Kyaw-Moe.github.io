@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name_en": "Yangon",
+        "name_mm": "ရန်ကုန်"
+    },
+    {
+        "id": 2,
+        "name_en": "Mandalay",
+        "name_mm": "မန္တလေး"
+    },
+    {
+        "id": 3,
+        "name_en": "Bago",
+        "name_mm": "ပဲခူး"
+    },
+    {
+        "id": 4,
+        "name_en": "Ayeyarwaddy",
+        "name_mm": ""
+    },
+    {
+        "id": 5,
+        "name_en": "Magwe",
+        "name_mm": ""
+    },
+    {
+        "id": 6,
+        "name_en": "Sagaing",
+        "name_mm": ""
+    },
+    {
+        "id": 7,
+        "name_en": "Thaninthayi",
+        "name_mm": ""
+    },
+    {
+        "id": 8,
+        "name_en": "Naypyidaw",
+        "name_mm": ""
+    },
+    {
+        "id": 9,
+        "name_en": "Mon",
+        "name_mm": ""
+    },
+    {
+        "id": 10,
+        "name_en": "Kayin",
+        "name_mm": ""
+    },
+    {
+        "id": 11,
+        "name_en": "Rakhine",
+        "name_mm": ""
+    },
+    {
+        "id": 12,
+        "name_en": "Kayah",
+        "name_mm": ""
+    },
+    {
+        "id": 13,
+        "name_en": "Shan",
+        "name_mm": ""
+    },
+    {
+        "id": 14,
+        "name_en": "Chin",
+        "name_mm": ""
+    },
+    {
+        "id": 15,
+        "name_en": "Kachin",
+        "name_mm": ""
+    }
+]

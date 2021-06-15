@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Myanmar Kyat",
+        "code": "MMK"
+    },
+    {
+        "id": 2,
+        "name": "United States Dollar",
+        "code": "USD"
+    },
+    {
+        "id": 3,
+        "name": "Japanese",
+        "code": "JPY"
+    },
+    {
+        "id": 4,
+        "name": "Singapore Dollar",
+        "code": "SGD"
+    },
+    {
+        "id": 5,
+        "name": "Thai Baht",
+        "code": "THB"
+    },
+    {
+        "id": 6,
+        "name": "South Korean Won",
+        "code": "KRW"
+    },
+    {
+        "id": 7,
+        "name": "Malaysian Ringgit",
+        "code": "MYR"
+    },
+    {
+        "id": 8,
+        "name": "Indonesian Rupiah",
+        "code": "IDR"
+    },
+    {
+        "id": 9,
+        "name": "European Euro",
+        "code": "EUR"
+    }
+]
