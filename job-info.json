@@ -7,9 +7,18 @@
       "Register လုပ်စရာမလိုသည့်အတွက်မိမိ၏ ကိုယ်ရေးအချက်အလက်များကို Job Shar Mal အားပေးစရာမလိုပဲ အလုပ်ခေါ်ရာcompanyကိုသာတိုက်ရိုက်ပေးပို့လျှောက်ထားရမှာဖြစ်သောကြောင့်ယုံကြည်စိတ်ချစွာအသုံးပြုနိူင်ခြင်း။",
       "လူကြီးမင်းတို့ လုပ်ငန်းများတွင် လိုအပ်နေသော အလုပ်အကိုင်များကို ပေးပို့နိုင်ပါတယ်။ အလုပ်အကိုင် လိုအပ်နေသူများလည်း ဆက်သွယ်နိုင်ပါတယ်။"
   ],
+  "job_facebook_page": "https://www.facebook.com/quickdoortodoor",
+  "team_facebook_page": "https://www.facebook.com/quickdoortodoor",
+  "website": "https://jobsharmal.com",
+  "job_phone": "",
+  "job_viber": "",
+  "job_email": "jobsharmal21@gmail.com",
+  "app_version": "0.0.1",
+  "play_store": "https://play.google.com/store/apps/details?id=com.jobsharmal.app",
   "country_name_en": "Myanmar",
   "country_name_mm": "MM",
   "country_slug": "myanmar",
+  "owner": "TechnoVilla",
   "created_at": "2021-06-11T08:13:15.000000Z",
   "updated_at": "2021-06-11T08:13:15.000000Z"
 }
