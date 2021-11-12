@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Mayangone",
+        "division_id": 1
+    },
+    {
+        "id": 2,
+        "name": "Tarmwe",
+        "division_id": 1
+    },
+    {
+        "id": 3,
+        "name": "Hlaing",
+        "division_id": 1
+    },
+    {
+        "id": 4,
+        "name": "Chan Aye Thar San",
+        "division_id": 2
+    },
+    {
+        "id": 5,
+        "name": "Aung Myay Thar San",
+        "division_id": 2
+    },
+    {
+        "id": 6,
+        "name": "Bago",
+        "division_id": 3
+    }
+]
