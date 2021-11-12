@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Myanmar Kyat",
+        "code": "MMK"
+    },
+    {
+        "id": 2,
+        "name": "United States Dollar",
+        "code": "USD"
+    }
+]
