@@ -1,14 +1,62 @@
 [
-    {
-        "id": 1,
-        "name": "Yangon"
-    },
-    {
-        "id": 2,
-        "name": "Mandalay"
-    },
-    {
-        "id": 3,
-        "name": "Bago"
-    }
+  {
+    "id": 1,
+    "name": "Yangon Region"
+  },
+  {
+    "id": 2,
+    "name": "Mandalay Region"
+  },
+  {
+    "id": 3,
+    "name": "Nay Pyi Taw"
+  },
+  {
+    "id": 4,
+    "name": "Ayeyarwady Region"
+  },
+  {
+    "id": 5,
+    "name": "Bago Region"
+  },
+  {
+    "id": 6,
+    "name": "Chin State"
+  },
+  {
+    "id": 7,
+    "name": "Kachin State"
+  },
+  {
+    "id": 8,
+    "name": "Kayah State"
+  },
+  {
+    "id": 9,
+    "name": "Karen State"
+  },
+  {
+    "id": 10,
+    "name": "Magway Region"
+  },
+  {
+    "id": 11,
+    "name": "Mon State"
+  },
+  {
+    "id": 12,
+    "name": "Rakhine State"
+  },
+  {
+    "id": 13,
+    "name": "Sagaing Region"
+  },
+  {
+    "id": 14,
+    "name": "Shan State"
+  },
+  {
+    "id": 15,
+    "name": "Tanintharyi Region"
+  }
 ]
